@@ -10,7 +10,7 @@ This is the repository of [flameshot.org](https://flameshot.org). For the softwa
 
 This static website is powered by [zola](https://www.getzola.org).
 
-# Development
+# Development 
 
 ## building the website locally
 
